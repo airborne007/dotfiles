@@ -1,0 +1,18 @@
+# Mac
+.DS_Store
+
+# Windows
+Thumbs.db
+
+# Jetbrains IDE
+.idea/
+
+# vi
+*~
+
+# vscode
+.vscode/
+
+# General
+log/
+*.log
